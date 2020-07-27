@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🤳
 
 - 🔭 I’m currently working on ... AAPS
 - 🌱 I’m currently learning ... QuantLib
