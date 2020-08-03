@@ -7,6 +7,6 @@
 - 📫 How to reach me: wenjing.fang@uconn.edu
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: My favourite sports team LFC just won its first premier league title since 30 years ago!
-- 😎 My full resume: cellsummer.github.io/markdown-cv
+- 😎 My full resume: cellsummer.github.io/markdown-cv <a href="cellsummer.github.io/markdown-cv">
 
 -->
