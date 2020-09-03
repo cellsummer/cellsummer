@@ -1,6 +1,6 @@
 ### Hi there 👋🤳
 
-- 🔭 I’m currently working on a Dash project called "premier-league-analytics"
+- 🔭 I’m currently working on a Dash project called ["premier-league-analytics"](https://cellsummer.github.io/premier-league-analytics)
 - 🌱 I’m currently learning QuantLib
 - 👯 I’m looking to collaborate on QuantlLib
 - 💬 Ask me about Anything
