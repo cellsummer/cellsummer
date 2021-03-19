@@ -6,5 +6,5 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: wenjing.fang@uconn.edu
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: My favourite sports team LFC just won its first premier league title since 30 years ago!
+- ⚡ Fun fact: As a child, my career goal was to become a sports commentator. 
 - 😎 My full resume: [English Resume](https://cellsummer.github.io/markdown-cv)  | [中文简历](https://cellsummer.github.io/markdown-cv-cn)
