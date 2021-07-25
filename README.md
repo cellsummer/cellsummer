@@ -7,4 +7,4 @@
 - 📫 How to reach me: wenjing.fang@uconn.edu
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: When I was a kid, my career goal was to become a sports commentator. 
-- 😎 My Blog: [cellsummer.github.io](cellsummer.github.io)
+- 😎 My Blog: [cellsummer.github.io](https://cellsummer.github.io)
